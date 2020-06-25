@@ -31,4 +31,5 @@ dotenv --------------> This module is used to store environment variables inside
 bcrypt --------------> This module is used to hash the passwords
                     
 
-To persist the logged user across all the pages                
+To persist the logged user across all the pages/ different requests could
+evolve into a complex task so, we have to use passport JS LIBRARY               
